@@ -1,51 +1,39 @@
 # 🎾 Tennis Score App
 
-**A simple console application written in C#** that simulates a tennis match between two players using real-world scoring rules.
+**A simple console application written in C#** that simulates a tennis match between two players using real-world scoring rules.  
+Built with focus on clean architecture and object-oriented principles.
 
 ---
 
 ## 📌 Overview
 
-**Tennis Score App** is a terminal-based program that allows two players to compete in a simulated tennis match. The application keeps track of points, games, sets, and declares a match winner based on official tennis rules.
+**Tennis Score App** is a terminal-based program that allows two players to compete in a simulated tennis match. The application keeps track of:
 
-This project was created to demonstrate **object-oriented programming in C#**, proper game flow control, and user interaction via console input.
+- 🎾 Points
+- 🧮 Games
+- 🧱 Sets
+- 🏆 Match Winner
 
----
-
-## 🛠️ Technologies
-
-- **C#**
-- **.NET 6.0+**
-- Console Application
+All based on the **official tennis scoring rules**.
 
 ---
 
-## 📂 Structure
+## 🛠️ Technologies Used
 
-- `Player.cs` – Represents each player with their name and scoring data.  
-- `Game.cs` – Handles point scoring, including logic for deuce and advantage.  
-- `Set.cs` – Manages games won and set progression.  
-- `Match.cs` – Oversees the full match structure and tracks the overall winner.  
-- `Program.cs` – Entry point of the application. Manages input/output and runs the game loop.
-
----
-
-## ▶️ How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/tennis-score-app.git
+| Tool / Language | Description              |
+|------------------|--------------------------|
+| C#               | Main programming language |
+| .NET 6.0+        | Framework for the app     |
+| Console UI       | Input/output via terminal |
 
 ---
 
-## 🚀 Future Improvements
+## 📂 Project Structure
 
-Add player statistics
-Multiplayer support
-Save/load feature
-
----
-
-## 👨‍💻 Author
-Created by: Petko Marinov.
-C# Console Application – coursework / demo project
+```bash
+📁 TennisScoreApp/
+├── Player.cs       # Player info & score
+├── Game.cs         # Logic for single game
+├── Set.cs          # Set tracking
+├── Match.cs        # Full match logic
+└── Program.cs      # Entry point / User input

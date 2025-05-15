@@ -1,0 +1,36 @@
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.exe
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.deps.json
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.runtimeconfig.json
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.dll
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.pdb
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.csproj.GenerateResource.cache
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.AssemblyInfoInputs.cache
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.AssemblyInfo.cs
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.csproj.CoreCompileInputs.cache
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.dll
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\refint\Tennis-Score-App.dll
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.pdb
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.genruntimeconfig.cache
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\ref\Tennis-Score-App.dll
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis_Score_App.NewGameForm.resources
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis_Score_App.PlayerInfoForm.resources
+C:\temp\Tennis-Score-App\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis_Score_App.ScoreForm.resources
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.exe
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.deps.json
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.runtimeconfig.json
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.dll
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\bin\Debug\net8.0-windows\Tennis-Score-App.pdb
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis_Score_App.NewGameForm.resources
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis_Score_App.PlayerInfoForm.resources
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis_Score_App.ScoreForm.resources
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.csproj.GenerateResource.cache
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.AssemblyInfoInputs.cache
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.AssemblyInfo.cs
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.csproj.CoreCompileInputs.cache
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.dll
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\refint\Tennis-Score-App.dll
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.pdb
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\Tennis-Score-App.genruntimeconfig.cache
+C:\Users\Petko\Downloads\Tennis-Score-App-Corrected (2)\Tennis-Score-App-Corrected\Tennis-Score-App\Tennis-Score-App\obj\Debug\net8.0-windows\ref\Tennis-Score-App.dll
